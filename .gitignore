@@ -9,3 +9,6 @@ boot/u-boot.img
 pre_chroot_backup/
 .*.sw?
 kernel/kernel_version
+.viminfo
+.wget-hsts
+.bash_history
